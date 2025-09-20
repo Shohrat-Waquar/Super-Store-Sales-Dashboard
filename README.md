@@ -49,6 +49,7 @@ The dataset contains order-level retail data, including:
   - Monthly sales and profit trends for 2019 and 2020  
   - Seasonal patterns and growth spikes highlighted
 
+- **Dashboard Preview** : https://github.com/Shohrat-Waquar/Super-Store-Sales-Dashboard/blob/main/Dashboard.png
 ---
 
 ## 🔗 Connect with Me
